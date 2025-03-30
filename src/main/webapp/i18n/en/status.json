@@ -1,0 +1,11 @@
+{
+  "tmpApp": {
+    "Status": {
+      "null": "",
+      "RECEIVED": "RECEIVED",
+      "WAITING": "WAITING",
+      "COMPLETED": "COMPLETED",
+      "ERROR": "ERROR"
+    }
+  }
+}
